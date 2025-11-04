@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>_08_tonhamkodyai</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\User\Downloads\webtonhamyai\Hello World\Hello World.cs" Link="Hello World.cs" />
+    <Compile Include="D:\New folder %282%29\Hello World.cs" Link="Hello World.cs" />
+  </ItemGroup>
+
+</Project>

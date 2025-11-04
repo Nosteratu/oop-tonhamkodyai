@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\08_tonhamkodyai\08_tonhamkodyai\bin\Debug\net8.0\08_tonhamkodyai.exe
+C:\Users\User\source\repos\08_tonhamkodyai\08_tonhamkodyai\bin\Debug\net8.0\08_tonhamkodyai.deps.json
+C:\Users\User\source\repos\08_tonhamkodyai\08_tonhamkodyai\bin\Debug\net8.0\08_tonhamkodyai.runtimeconfig.json
+C:\Users\User\source\repos\08_tonhamkodyai\08_tonhamkodyai\bin\Debug\net8.0\08_tonhamkodyai.dll
+C:\Users\User\source\repos\08_tonhamkodyai\08_tonhamkodyai\bin\Debug\net8.0\08_tonhamkodyai.pdb
+C:\Users\User\source\repos\08_tonhamkodyai\08_tonhamkodyai\obj\Debug\net8.0\08_tonhamkodyai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\08_tonhamkodyai\08_tonhamkodyai\obj\Debug\net8.0\08_tonhamkodyai.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\08_tonhamkodyai\08_tonhamkodyai\obj\Debug\net8.0\08_tonhamkodyai.AssemblyInfo.cs
+C:\Users\User\source\repos\08_tonhamkodyai\08_tonhamkodyai\obj\Debug\net8.0\08_tonhamkodyai.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\08_tonhamkodyai\08_tonhamkodyai\obj\Debug\net8.0\08_tonhamkodyai.dll
+C:\Users\User\source\repos\08_tonhamkodyai\08_tonhamkodyai\obj\Debug\net8.0\refint\08_tonhamkodyai.dll
+C:\Users\User\source\repos\08_tonhamkodyai\08_tonhamkodyai\obj\Debug\net8.0\08_tonhamkodyai.pdb
+C:\Users\User\source\repos\08_tonhamkodyai\08_tonhamkodyai\obj\Debug\net8.0\08_tonhamkodyai.genruntimeconfig.cache
+C:\Users\User\source\repos\08_tonhamkodyai\08_tonhamkodyai\obj\Debug\net8.0\ref\08_tonhamkodyai.dll
